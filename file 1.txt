@@ -168,7 +168,7 @@
             <button> SIGN IN</button>
         </div>
     </nav>
-    <div class="body">
+    <div class="main-body">
         <div class="c1">Intuitive. run run everywhere</div>
         <div class="c2">OPEN THE WORLD OF MUSIC. <br>it,s all here.</div>
         <div class="btn"><button>Downlod for Desktop</button></div>
