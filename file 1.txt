@@ -169,7 +169,7 @@
         </div>
     </nav>
     <div class="body">
-        <div class="c1">Intuitive. Powerful. Runs everywhere</div>
+        <div class="c1">Intuitive. run run Runs everywhere</div>
         <div class="c2">OPEN THE WORLD OF MUSIC. <br>it,s all here.</div>
         <div class="btn"><button>Downlod for Desktop</button></div>
         <div class="btn"><button>Downlod for Mobile</button></div>
